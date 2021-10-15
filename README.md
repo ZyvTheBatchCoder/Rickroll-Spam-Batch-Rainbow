@@ -1,62 +1,37 @@
 Super easy to use just open the batch file and it will start rickrolling you.
 Here is the code if you want it
-just around 497 lines down :D
+just a few lines down :D
+ 
+
+  
+  
+
+  
+
+
+  
+ 
+    
+
+ 
+
+
+    
+
+ 
 
 
 
 
+ 
 
 
+ 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
 
 
 
