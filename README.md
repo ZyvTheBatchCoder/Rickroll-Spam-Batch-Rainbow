@@ -488,6 +488,6 @@ echo never gonna let you down
 color 06
 echo never gonna let you down
 color 07
-echo never gonna run around a desrt you
+echo never gonna run around a desert you
 goto top
 
